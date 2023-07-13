@@ -1,0 +1,13 @@
+:root{
+    --main-color:#24353F;
+}
+::placeholder{
+    color: #ccc !important;
+    opacity: 0.8;
+}
+body{
+    background-color: var(--main-color);
+}
+.login{
+    box-shadow: 1px 1px 30px  #000;
+}
